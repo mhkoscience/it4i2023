@@ -1,2 +1,5 @@
-# it4i2023
-slides for a presentation at 7th Users' Conference of IT4Innovations, Ostrava, Czechia
+# Atomistic simulations of ancient ribosomes and their parts
+
+slides for a presentation at 7th Users' Conference of IT4Innovations, Ostrava, Czechia.
+
+2023-10-30
